@@ -29,7 +29,7 @@ Hier ein kleiner Überblick über die Technologien, mit denen ich arbeite:
 ---
 
 ## 📊 GitHub Stats
-![Danis' GitHub stats](https://github-readme-stats.vercel.app/api?username=DeinGitHubName&show_icons=true&theme=radical)
+![Danis' GitHub stats](https://github-readme-stats.vercel.app/api?username=danis-sec&show_icons=true&theme=radical)
 
 ---
 
